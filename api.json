@@ -1,0 +1,12 @@
+{
+    "clientVersionCode": 100,
+    "gameFilesVersionCode": 100,
+    "URL_GAME_FILES" : "http://a0770582.xsph.ru/game.zip",
+    "URL_GAME_FILES_UPD" : "https://sanrelo.ru/upd.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "https://www.youtube.com/",
+    "URL_FORUM": "https://",
+    "URL_DONATE": "https://",
+    "URL_CLIENT": "https:///client.apk"
+}
